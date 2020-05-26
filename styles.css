@@ -4,7 +4,21 @@
   }
 }
 body {
-  background-color: #222831;
+  background-color: tan;
+}
+
+nav a {
+  display: block;
+  padding: 6px 12px;
+  text-decoration: none;
+}
+
+#order {
+  background-color: green;
+}
+
+.quote {
+  font-weight: bold;
 }
 
 /*# sourceMappingURL=styles.css.map */

@@ -1,0 +1,10 @@
+@media (max-width: 499px) {
+  img.img-thumbnail {
+    display: none;
+  }
+}
+body {
+  background-color: #222831;
+}
+
+/*# sourceMappingURL=styles.css.map */
